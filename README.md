@@ -1,7 +1,7 @@
 ## Juego de AHORCADO en JAVA
 
 Es un juego de Ahorcado en Java donde uno debe ir colocando letra a letra en la consola y tiene una cierta cantidad de intentos.
-Si logra competar la palabra Gana, caso contrario, se acaben los intentos y pierde.
+Si logra completar la palabra Gana, caso contrario, se acaben los intentos y pierde.
 
 # Herramientas:
 
